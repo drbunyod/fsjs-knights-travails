@@ -1,2 +1,2 @@
-# fsjs-knights-travails
-Project: Knights Travails
+# Project: Knights Travails
+Knights Travails project for the Full Stack JavaScript course
